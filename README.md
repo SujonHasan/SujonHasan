@@ -2,18 +2,16 @@
 
 ![programmer](https://user-images.githubusercontent.com/46149857/212401108-2bfa32b9-071e-4676-bb0c-a415d5f4c887.gif)
 
+- 🌱 I’m currently Studying Southeast University
+- 📫 How to reach me: ...Mail: sujonhasan171@gmail.com
 
-<!--
-**SujonHasan/SujonHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stacks
+#### Languages: C | C++ | Javascript | Java 
+
+#### Frontend: HTML | CSS
+
+#### Backend: Nodejs
+
+#### Others: Git | Linux
