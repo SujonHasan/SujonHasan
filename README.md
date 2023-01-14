@@ -7,7 +7,7 @@
 
 
 
-<!### My Stacks
+<!--- ### My Stacks
 #### Languages: C | C++ | Javascript | Java 
 
 #### Frontend: HTML | CSS
@@ -15,4 +15,4 @@
 #### Backend: Nodejs
 
 #### Others: Git | Linux
-!>
+--->
